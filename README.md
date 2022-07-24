@@ -3,6 +3,10 @@
 
 This is a movie information web app where a user can find and read details about their favorite movies and watch it's trailers.
 
+## Demo
+
+https://moviess-info.netlify.app/
+
 
 ## Tech Stack
 
